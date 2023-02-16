@@ -13,6 +13,7 @@ public class Droit {
         if (c==(a*x+b*y)){
             return true;
         }
+
         else {
             return false;
         }
